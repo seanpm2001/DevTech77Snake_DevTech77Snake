@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer;Professional+Communicator" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1000&width=435&center=true&lines=Full+Stack+Developer;Professional+Communicator" alt="Typing SVG" /></a>
 </p>
 
 <!-- Short Introduction -->
@@ -7,22 +7,22 @@
 
 <p><img align="right" width="30%" src="code.gif" alt="Bolt-Shiny" /></p>
 
-<p>I am a Full-stack web developer with over 9 years of experience analyzing, designing, developing, and integrating front-end & back-end based applications. Possesses knowledge of web application using HTML, CSS, JavaScript, TypeScript, PHP.</p>
-<p>Also, I have rich experience in React.js, AngularJS, Vue.js, Next.js, ExpressJS, Node.js, Django, Flask, GraphAQL etc. And, I have strong experience with SQL including MySQL, PostgreSQL, SQLite and Oracle and NoSQL databases including MongoDB and GraphQL.</p>
-<p>Then, I have experience Building the infrastructure for CI/CD with Firebase, Docker, Kubernetes.</p>
+<p>I am a Full-stack web developer with over 9 years of experience analyzing, designing, developing, and integrating front-end & back-end based applications. Possesses knowledge of web application using HTML, CSS, JavaScript, TypeScript, PHP. 🌐</p>
+<p>Also, I have rich experience in React.js, AngularJS, Vue.js, Next.js, ExpressJS, Node.js, Django, Flask, GraphAQL etc. 💪 And, I have strong experience with SQL including MySQL, PostgreSQL, SQLite and Oracle and NoSQL databases including MongoDB and GraphQL. ⚙</p>
+<p>Then, I have experience Building the infrastructure for CI/CD with Firebase, Docker, Kubernetes. Proficient in handling large datasets using SQL and NoSQL databases, and well-versed in leveraging containerization tools like Docker and Kubernetes for deploying AI models. 🧠</p>
+<p></p>
 
 <!-- Skills Section -->
 <h2 align="left">🚀Skills🚀</h2>
 
 <div>
 
-![Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,flutter,mongodb,mysql,redis,react,tailwind,docker)
-
 <!-- Languages -->
 
 #### 🔥Major Programming Languages:
 
   <div align="left">  
+  ![Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,flutter,mongodb,mysql,redis,react,tailwind,docker)
     <code><img alt="JavaScript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></code>
     <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>          
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
