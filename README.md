@@ -5,7 +5,7 @@
 <!-- Short Introduction -->
 <h2 align="left">Hi, there. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
-<p><img align="right" width="30%" src="computer-illistration.png" alt="Bolt-Shiny" /></p>
+<p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
 
 <p>I am a Full-stack web developer with over 9 years of experience analyzing, designing, developing, and integrating front-end & back-end based applications. Possesses knowledge of web application using HTML, CSS, JavaScript, TypeScript, PHP. 🌐</p>
 <p>Also, I have rich experience in React.js, AngularJS, Vue.js, Next.js, ExpressJS, Node.js, Django, Flask, GraphAQL etc. 💪 And, I have strong experience with SQL including MySQL, PostgreSQL, SQLite and Oracle and NoSQL databases including MongoDB and GraphQL. ⚙</p>
