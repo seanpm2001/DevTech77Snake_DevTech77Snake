@@ -3,9 +3,9 @@
 </p>
 
 <!-- Short Introduction -->
-<h2 align="left">Hi, there. <img src="./computer-illustration.png" width="30"/></h2>
+<h2 align="left">Hi, there. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
-<p><img align="right" width="30%" src="code.gif" alt="Bolt-Shiny" /></p>
+<p><img align="right" width="30%" src="computer-illistration.png" alt="Bolt-Shiny" /></p>
 
 <p>I am a Full-stack web developer with over 9 years of experience analyzing, designing, developing, and integrating front-end & back-end based applications. Possesses knowledge of web application using HTML, CSS, JavaScript, TypeScript, PHP. 🌐</p>
 <p>Also, I have rich experience in React.js, AngularJS, Vue.js, Next.js, ExpressJS, Node.js, Django, Flask, GraphAQL etc. 💪 And, I have strong experience with SQL including MySQL, PostgreSQL, SQLite and Oracle and NoSQL databases including MongoDB and GraphQL. ⚙</p>
@@ -30,7 +30,7 @@
 #### ⛓️Frameworks and Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,symfony,rails,svelte,rust,nestjs,flutter,hibernate,spring,figma,webflow,wordpress,pytorch,tensorflow,bots" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,symfony,rails,svelte,rust,nestjs,flutter,hibernate,spring,figma,webflow,wordpress,pytorch,tensorflow" />
   </div>
 
 <!-- Databases -->
@@ -46,6 +46,6 @@
 #### ⚡️Other Essentials:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,ai" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,ai,bots" />
   </div>
 </div>
