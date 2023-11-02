@@ -3,7 +3,7 @@
 </p>
 
 <!-- Short Introduction -->
-<h2 align="left">Hi, there. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
+<h2 align="left">Hi, there. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" /></h2>
 
 <p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
 
