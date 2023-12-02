@@ -5,7 +5,7 @@
 <!-- Short Introduction -->   
 
 <h1 align = "left">
-  Hi, there. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" />
+  Hi, there. <img src="https://github.com/devtech77snake/devtech77snake/blob/main/wave.gif" width="30" />
   
   ### Thanks for visiting :heart:
   ![VisitorCount](https://profile-counter.glitch.me/devtech77snake/count.svg)
