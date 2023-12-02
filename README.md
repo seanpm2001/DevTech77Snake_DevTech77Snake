@@ -1,11 +1,15 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1000&width=435&center=true&lines=Full+Stack+Developer;Professional+Communicator" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Senior+Web+Developer;Android+%26+iOS+App+Developer;Especially+Backend+Development;Welcome+to+my+GitHub+Profile!" alt="devtech77snake" /></a>
 </p>
 
-<!-- Short Introduction -->
+<!-- Short Introduction -->   
 <h2 align="left">Hi, there. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" /></h2>
 
 <p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/devtech77snake/count.svg)
+&emsp;
 
 <p>I am a Full-stack web developer with over 9 years of experience analyzing, designing, developing, and integrating front-end & back-end based applications. Possesses knowledge of web application using HTML, CSS, JavaScript, TypeScript, PHP. 🌐</p>
 <p>Also, I have rich experience in React.js, AngularJS, Vue.js, Next.js, ExpressJS, Node.js, Django, Flask, GraphAQL etc. 💪 And, I have strong experience with SQL including MySQL, PostgreSQL, SQLite and Oracle and NoSQL databases including MongoDB and GraphQL. ⚙</p>
